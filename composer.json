@@ -1,0 +1,23 @@
+{
+  "name": "alekhin-solutions/lezzy",
+  "description": "Fuzzy search with levenshtein distance.",
+  "type": "library",
+  "license": "GPLv3",
+  "authors": [
+    {
+      "name": "Japa Alekhin Llemos",
+      "email": "jap@alekhin.io"
+    },
+    {
+      "name": "Ronel Carlo Berino",
+      "email": "ronelcarlo.berino@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "AlekhinSolutions\\Lezzy\\": "src/AlekhinSolutions/Lezzy/"
+    }
+  }
+}
